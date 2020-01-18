@@ -106,3 +106,4 @@ dist
 #project strategy
 ./backend/node_modules
 backend/src/cred.js
+./web/node_modules
